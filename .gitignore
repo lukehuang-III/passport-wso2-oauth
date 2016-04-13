@@ -35,7 +35,6 @@ node_modules
 .node_repl_history
 *.csv
 *.dat
-*.iml
 *.out
 *.sublime-*
 *.swo
