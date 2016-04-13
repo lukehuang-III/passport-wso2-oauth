@@ -38,7 +38,6 @@ node_modules
 *.out
 *.sublime-*
 *.swo
-*.swp
 *.tgz
 *.xml
 .DS_Store
