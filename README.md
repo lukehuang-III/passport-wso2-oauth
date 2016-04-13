@@ -1,3 +1,7 @@
+
+### Modified by Smart-Tourism, D.A.T.A., I.I.I.
+
+
 # Passport-Google-OAuth
 
 [Passport](http://passportjs.org/) strategies for authenticating with [Google](http://www.google.com/)
