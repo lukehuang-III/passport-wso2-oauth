@@ -1,10 +1,14 @@
 
-### Modified by Smart-Tourism, D.A.T.A., I.I.I.
+## Notice
 
+This repository modified by team Smart-Tourism, D.A.T.A., I.I.I.
+
+---
+---
 
 # Passport-Google-OAuth
 
-[Passport](http://passportjs.org/) strategies for authenticating with [Google](http://www.google.com/)
+[Passport](http://passportjs.org/) strategies for authenticating with [Google](http://www.google.com/)m
 using OAuth 1.0a and OAuth 2.0.
 
 This module lets you authenticate using Google in your Node.js applications.
