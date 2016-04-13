@@ -30,4 +30,20 @@ node_modules
 .npm
 
 # Optional REPL history
+
+
 .node_repl_history
+*.csv
+*.dat
+*.iml
+*.out
+*.sublime-*
+*.swo
+*.swp
+*.tgz
+*.xml
+.DS_Store
+.idea
+.project
+.strong-pm
+npm-debug.log
